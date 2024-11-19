@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Apology to Seema Ma'am</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            text-align: center;
+            padding: 50px;
+        }
+        h1 {
+            color: #ff6347;
+            font-size: 2.5em;
+        }
+        p {
+            font-size: 1.2em;
+            color: #333;
+        }
+        .apology {
+            font-size: 1.5em;
+            color: #ff4500;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <h1>Apology to Seema Ma'am</h1>
+    <p class="apology">Dear Seema Ma'am,</p>
+    <p>I sincerely apologize for the mistake I made by spilling tea on your hand. It was an accident, and I deeply regret any discomfort I caused you.</p>
+    <p>It was an unfortunate incident, and I will make sure to be more careful in the future. Please accept my heartfelt apology.</p>
+    <p>Thank you for your understanding.</p>
+    <p>- Priya</p>
+</body>
+</html>
